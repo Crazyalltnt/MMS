@@ -1,5 +1,5 @@
 # MMS
-A Small Mall Management System/小型商场管理系统
+A small mall management system/小型商场管理系统
 
 通过ODBC数据源连接SQL Server 数据库，使用 MFC 创建程序
 
